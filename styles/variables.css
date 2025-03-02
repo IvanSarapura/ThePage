@@ -1,0 +1,11 @@
+:root {
+  --background: #ffffff;
+  --foreground: #1a1a1a;
+  --primary: #1f2937;
+  --accent: #9f7aea;
+  --section-bg: #f9f7f3;
+  --footer-bg: #021410;
+  --text-dark: #1a1a1a;
+  --font-space-grotesk: "Space Grotesk", sans-serif;
+  --font-inter: "Inter", sans-serif;
+}

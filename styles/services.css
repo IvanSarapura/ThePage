@@ -1,0 +1,22 @@
+.services-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+.service-card {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.service-id {
+  font-size: 0.875rem;
+  color: black;
+  font-weight: 500;
+}
+
+.service-title {
+  font-size: 1.25rem;
+  font-weight: 500;
+}

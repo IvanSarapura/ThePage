@@ -1,0 +1,21 @@
+.container {
+  width: 100%;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.section {
+  padding: 5rem 1rem;
+}
+
+.dark-section {
+  background-color: var(--footer-bg);
+  color: white;
+}
+
+.section-bg {
+  background-color: var(--section-bg);
+}
