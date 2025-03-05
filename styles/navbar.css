@@ -25,6 +25,7 @@
 .navbar-logo {
   font-size: 1.25rem;
   font-weight: 500;
+  text-decoration: underline;
 }
 
 .navbar-links {
@@ -38,9 +39,12 @@
   border: none;
   cursor: pointer;
   transition: color 0.2s ease-in-out;
+  font-family: var(--font-space-grotesk);
+  color: #1f2937;
 }
 
 .navbar-link:hover span {
+  color: #000;
   text-decoration: underline;
-  text-underline-offset: 4px;
+  text-underline-offset: 3px;
 }

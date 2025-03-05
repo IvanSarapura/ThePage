@@ -13,6 +13,7 @@
 .btn-outline {
   border: 1px solid black;
   color: black;
+  background-color: transparent;
 }
 
 .btn-outline:hover {
